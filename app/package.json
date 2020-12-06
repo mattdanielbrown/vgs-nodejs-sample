@@ -10,7 +10,7 @@
     "debug": "~4.1.1",
     "express": "~4.16.4",
     "homeaway": "^0.2.7",
-    "http-errors": "~1.7.2",
+    "http-errors": "~1.8.0",
     "morgan": "~1.9.1",
     "pug": "2.0.3",
     "sequelize": "~5.15.1",
